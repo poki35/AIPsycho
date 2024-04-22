@@ -51,6 +51,7 @@
 		A67FA9012BD7067C0023F742 /* AIPsycho */ = {
 			isa = PBXGroup;
 			children = (
+				A67FA9122BD707070023F742 /* View's */,
 				A67FA9022BD7067C0023F742 /* AIPsychoApp.swift */,
 				A67FA9042BD7067C0023F742 /* ContentView.swift */,
 				A67FA9062BD7067F0023F742 /* Assets.xcassets */,
@@ -65,6 +66,29 @@
 				A67FA9092BD7067F0023F742 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		A67FA9102BD706E10023F742 /* TabBar */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = TabBar;
+			sourceTree = "<group>";
+		};
+		A67FA9112BD706F70023F742 /* Onboarding */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Onboarding;
+			sourceTree = "<group>";
+		};
+		A67FA9122BD707070023F742 /* View's */ = {
+			isa = PBXGroup;
+			children = (
+				A67FA9102BD706E10023F742 /* TabBar */,
+				A67FA9112BD706F70023F742 /* Onboarding */,
+			);
+			path = "View's";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
